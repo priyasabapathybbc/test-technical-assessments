@@ -15,6 +15,7 @@
 		6A9F7F0A2CD0E39700A70348 /* AutomationAssessmentUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9F7F092CD0E39700A70348 /* AutomationAssessmentUITests.swift */; };
 		6A9F7F0C2CD0E39700A70348 /* AutomationAssessmentUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9F7F0B2CD0E39700A70348 /* AutomationAssessmentUITestsLaunchTests.swift */; };
 		6A9F7F192CD0ED2500A70348 /* TagContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9F7F182CD0ED2500A70348 /* TagContentView.swift */; };
+		6A9F7F1B2CD14B7400A70348 /* AutomationIdentifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9F7F1A2CD14B7400A70348 /* AutomationIdentifiers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		6A9F7F092CD0E39700A70348 /* AutomationAssessmentUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutomationAssessmentUITests.swift; sourceTree = "<group>"; };
 		6A9F7F0B2CD0E39700A70348 /* AutomationAssessmentUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutomationAssessmentUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		6A9F7F182CD0ED2500A70348 /* TagContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TagContentView.swift; sourceTree = "<group>"; };
+		6A9F7F1A2CD14B7400A70348 /* AutomationIdentifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutomationIdentifiers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			children = (
 				6A9F7EEE2CD0E39500A70348 /* AutomationAssessmentApp.swift */,
 				6A9F7EF02CD0E39500A70348 /* ContentView.swift */,
+				6A9F7F1A2CD14B7400A70348 /* AutomationIdentifiers.swift */,
 				6A9F7F182CD0ED2500A70348 /* TagContentView.swift */,
 				6A9F7EF22CD0E39700A70348 /* Assets.xcassets */,
 				6A9F7EF42CD0E39700A70348 /* Preview Content */,
@@ -261,6 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6A9F7EF12CD0E39500A70348 /* ContentView.swift in Sources */,
+				6A9F7F1B2CD14B7400A70348 /* AutomationIdentifiers.swift in Sources */,
 				6A9F7F192CD0ED2500A70348 /* TagContentView.swift in Sources */,
 				6A9F7EEF2CD0E39500A70348 /* AutomationAssessmentApp.swift in Sources */,
 			);

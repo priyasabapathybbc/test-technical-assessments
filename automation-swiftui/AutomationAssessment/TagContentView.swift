@@ -33,7 +33,9 @@ Proin sollicitudin nisl vitae diam tristique consequat. Fusce sagittis ac dolor 
 
 This is the end of the placeholder text.
 """
-            ).padding()
+            )
+            .accessibilityIdentifier(AutomationIdentifiers.contentText.rawValue)
+            .padding()
         }
         .navigationTitle(tag.title)
     }
