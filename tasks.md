@@ -6,16 +6,16 @@ The aim of this technical home test task is to get a better understanding of you
 
 # Instructions
 1. Store your code on a public hosting repository like Github and send the github repo link to the email address from which you received the home test.
-2. We would like you to choose one platform either iOS or Android. Choose a native mobile testing framework relevant to your preferred platform (e.g., XCUITest for iOS, Espresso for Android).
-    1. The iOS codebase can be found here
-    2. The Android codebase can be found here
+2. We would like **you to choose one platform either iOS or Android**. Choose a native mobile testing framework relevant to your preferred platform- XCUITest for iOS, Espresso for Android.
+    1. The iOS codebase can be found [here](https://github.com/bbc/test-technical-assessments/tree/main/automation-swiftui)
+    2. The Android codebase can be found [here](https://github.com/bbc/test-technical-assessments/tree/main/Android)
 3. We would like you to fork the codebase and use it to write your native automated tests for the test scenarios mentioned in the ‘Test scenarios to automate’ section mentioned below
-4. Please try to 
 5. The submitted code project should have the following:
     1. Automated test scripts for each scenario with appropriate assertions
     2. Readme file with your assumptions, running instructions and any external dependencies.
 6. Return the test to our representatives 5 working days after you receive it.
-7. If you experience any issues, or require any clarification, please email the following at any time <email addresses>
+7. Please verify if you can open the project in XCode or Android studio based on the plaform you have chosen.
+8. If you experience any issues, or require any clarification, please email the following at any time <email addresses>
 
 
 # Test scenarios to automate
