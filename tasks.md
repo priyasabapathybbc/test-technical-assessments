@@ -10,11 +10,12 @@ The aim of this technical home test task is to get a better understanding of you
     1. The iOS codebase can be found here
     2. The Android codebase can be found here
 3. We would like you to fork the codebase and use it to write your native automated tests for the test scenarios mentioned in the ‘Test scenarios to automate’ section mentioned below
-4. The submitted code project should have the following:
+4. Please try to 
+5. The submitted code project should have the following:
     1. Automated test scripts for each scenario with appropriate assertions
     2. Readme file with your assumptions, running instructions and any external dependencies.
-5. Return the test to our representatives 5 working days after you receive it.
-6. If you experience any issues, or require any clarification, please email the following at any time <email addresses>
+6. Return the test to our representatives 5 working days after you receive it.
+7. If you experience any issues, or require any clarification, please email the following at any time <email addresses>
 
 
 # Test scenarios to automate
